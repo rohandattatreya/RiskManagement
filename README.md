@@ -1,2 +1,2 @@
 # RiskManagement
-Collection of files and programs for risk management
+Calculating Probability and loss given default
